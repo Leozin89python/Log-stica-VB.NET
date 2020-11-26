@@ -22,7 +22,7 @@
         senha = Log_inputSenha.Text
 
 
-        If mail = "leozin@gmail.com" And senha = "1234" Then
+        If mail = "leo@yahoo.com" And senha = "1234" Then
             Dim tela = New Log_loja
             tela.ShowDialog()
             limpar()
